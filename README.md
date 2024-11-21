@@ -1,1 +1,0 @@
-# panoramic-slider
