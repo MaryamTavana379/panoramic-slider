@@ -4,6 +4,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base:'/panoramic-slider/',
   plugins: [vue()],
   resolve: {
     alias: {
